@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\Identity.jpg</Source>
+      <Name>images\Identity</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Identity.xnb</Output>
+      <Time>2013-11-19T12:02:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\select.jpg</Source>
+      <Name>images\select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\select.xnb</Output>
+      <Time>2013-11-19T12:48:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Kurt Weaver IV ID.png</Source>
+      <Name>images\Kurt Weaver IV ID</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Kurt Weaver IV ID.xnb</Output>
+      <Time>2013-11-21T14:40:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Flash.png</Source>
+      <Name>images\Flash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Flash.xnb</Output>
+      <Time>2013-11-21T14:32:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Cursor.png</Source>
+      <Name>images\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Cursor.xnb</Output>
+      <Time>2013-11-21T15:07:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Binary.png</Source>
+      <Name>images\Binary</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Binary.xnb</Output>
+      <Time>2013-11-27T14:18:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Code Lords.png</Source>
+      <Name>images\Code Lords</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Code Lords.xnb</Output>
+      <Time>2013-11-27T11:40:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Chapter 1.png</Source>
+      <Name>images\Chapter 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Chapter 1.xnb</Output>
+      <Time>2013-12-02T15:29:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\GOD ROOM.png</Source>
+      <Name>images\GOD ROOM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\GOD ROOM.xnb</Output>
+      <Time>2013-12-03T11:08:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Kurt Proto.png</Source>
+      <Name>images\Kurt Proto</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Kurt Proto.xnb</Output>
+      <Time>2013-12-03T14:16:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Kurt proto2.png</Source>
+      <Name>images\Kurt proto2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Kurt proto2.xnb</Output>
+      <Time>2013-12-05T11:22:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Identity Pause.png</Source>
+      <Name>images\Identity Pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Identity Pause.xnb</Output>
+      <Time>2013-12-05T13:27:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Identity HUD.png</Source>
+      <Name>images\Identity HUD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Identity HUD.xnb</Output>
+      <Time>2013-12-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Stamina.png</Source>
+      <Name>images\Stamina</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Stamina.xnb</Output>
+      <Time>2013-12-05T13:59:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Health.png</Source>
+      <Name>images\Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Health.xnb</Output>
+      <Time>2013-12-05T14:51:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\KURT SPREEDSHEET.png</Source>
+      <Name>images\KURT SPREEDSHEET</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\KURT SPREEDSHEET.xnb</Output>
+      <Time>2013-12-09T13:12:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Text Box.png</Source>
+      <Name>images\Text Box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Text Box.xnb</Output>
+      <Time>2013-12-09T13:24:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\KURT SPREEDSHEET 2.png</Source>
+      <Name>images\KURT SPREEDSHEET 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\KURT SPREEDSHEET 2.xnb</Output>
+      <Time>2013-12-13T11:43:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\cell hallway.png</Source>
+      <Name>images\cell hallway</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\cell hallway.xnb</Output>
+      <Time>2013-12-11T14:19:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Chapter 2.png</Source>
+      <Name>images\Chapter 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Chapter 2.xnb</Output>
+      <Time>2013-12-11T14:30:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\brooken cell.png</Source>
+      <Name>images\brooken cell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\brooken cell.xnb</Output>
+      <Time>2013-12-13T13:51:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\COP1.png</Source>
+      <Name>images\COP1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\COP1.xnb</Output>
+      <Time>2014-01-31T13:36:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Cop Back Sprite Brown Hair.png</Source>
+      <Name>images\Cop Back Sprite Brown Hair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Cop Back Sprite Brown Hair.xnb</Output>
+      <Time>2013-12-13T10:22:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\broken hallway light.png</Source>
+      <Name>images\broken hallway light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\broken hallway light.xnb</Output>
+      <Time>2013-12-17T10:32:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Light room.png</Source>
+      <Name>images\Light room</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Light room.xnb</Output>
+      <Time>2013-12-17T13:00:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\lantern.png</Source>
+      <Name>images\lantern</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\lantern.xnb</Output>
+      <Time>2013-12-17T14:38:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\left side loop room.png</Source>
+      <Name>images\left side loop room</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\left side loop room.xnb</Output>
+      <Time>2013-12-20T19:33:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\right side loop room.png</Source>
+      <Name>images\right side loop room</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\right side loop room.xnb</Output>
+      <Time>2013-12-20T19:33:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Z.png</Source>
+      <Name>images\Z</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Z.xnb</Output>
+      <Time>2013-12-20T19:37:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Credits.png</Source>
+      <Name>images\Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Credits.xnb</Output>
+      <Time>2013-12-22T20:06:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Identity Controls.png</Source>
+      <Name>images\Identity Controls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Identity Controls.xnb</Output>
+      <Time>2013-12-22T20:06:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\left side loop room open.png</Source>
+      <Name>images\left side loop room open</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\left side loop room open.xnb</Output>
+      <Time>2013-12-22T22:33:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\JumpScare1.png</Source>
+      <Name>images\JumpScare1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\JumpScare1.xnb</Output>
+      <Time>2014-01-06T18:06:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\S2.png</Source>
+      <Name>images\S2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\S2.xnb</Output>
+      <Time>2014-01-10T13:08:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\2.png</Source>
+      <Name>images\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\2.xnb</Output>
+      <Time>2014-01-14T14:34:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\1.png</Source>
+      <Name>images\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\1.xnb</Output>
+      <Time>2014-02-04T14:19:59.8253328-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\3.png</Source>
+      <Name>images\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\3.xnb</Output>
+      <Time>2014-01-23T13:12:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Toxic Gas.png</Source>
+      <Name>images\Toxic Gas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\Toxic Gas.xnb</Output>
+      <Time>2014-01-16T11:56:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\4.png</Source>
+      <Name>images\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\4.xnb</Output>
+      <Time>2014-01-23T12:36:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\5.png</Source>
+      <Name>images\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\5.xnb</Output>
+      <Time>2014-02-12T13:17:49.7165387-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\6.png</Source>
+      <Name>images\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\6.xnb</Output>
+      <Time>2014-01-23T12:36:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\7.png</Source>
+      <Name>images\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\7.xnb</Output>
+      <Time>2014-01-23T12:36:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\COP2.png</Source>
+      <Name>images\COP2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\COP2.xnb</Output>
+      <Time>2014-01-31T13:34:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\COP3.png</Source>
+      <Name>images\COP3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\COP3.xnb</Output>
+      <Time>2014-01-31T13:34:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2013-11-27T13:32:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\8.png</Source>
+      <Name>images\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\images\8.xnb</Output>
+      <Time>2014-02-12T14:57:12.0141218-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identityContent\</RootDirectory>
+      <LoggerRootDirectory>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identityContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identity\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-06-06T08:27:43.6286144-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

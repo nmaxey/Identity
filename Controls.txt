@@ -1,0 +1,7 @@
+Arrows - Move
+Esc - Exit
+P - Pause
+Space - Action
+LShift - Run
+Z - View Items
+

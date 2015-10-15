@@ -1,0 +1,12 @@
+words = "Kurt: What is this?";
+words = "Kurt: I didn't order a bomb.";
+words = "Kurt: Who is doing this?";
+words = "Kurt: Was my iden...";
+words = "Kurt: Why am I in here?";
+words = "Cop: You are in here because you commited fraud, burglary, hacking, and identity theft.";
+words = "Kurt: I didn't do any of that. I must have been framed. My idenity must have been stolen.";
+words = "Cop: Yea right. You will be rotting in here for the next 20 years.";
+words = "Nooooo........";
+words =//Diferent cop "Cop: Stop! You are under arrest";
+words = "Kurt: What did I do?!"
+words = "Cop: It's over now. We finally caught you"

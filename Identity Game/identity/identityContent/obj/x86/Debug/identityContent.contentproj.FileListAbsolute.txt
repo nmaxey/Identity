@@ -1,0 +1,5 @@
+C:\Users\nmaxey48\Desktop\CP3\identity\identity\identityContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Courses\Computer Programming III C0221-S1\Shared\identity\identity\identityContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Courses\Computer Programming III C0221-S1\Shared\Identity Game\identity\identityContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Courses\Computer Programming III C0221-S1\Shared\Identity Stuff\Identity Game\identity\identityContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Computer Programming 3\Identity Stuff\Identity Game\identity\identityContent\obj\x86\Debug\ResolveAssemblyReference.cache
